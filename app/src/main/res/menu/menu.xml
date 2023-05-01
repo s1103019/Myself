@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_1"
+        android:title="HOME"
+        android:icon="@drawable/baseline_home_24"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/item_2"
+        android:title="FAVORITE"
+        android:icon="@drawable/baseline_favorite_border_24"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/item_3"
+        android:title="ACCOUNT"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:enabled="true"
+        />
+
+</menu>
