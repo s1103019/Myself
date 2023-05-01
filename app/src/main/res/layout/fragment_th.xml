@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="目前室友參加的社團及活動:系排、行雲者、小豆芽" />
+        android:text="目前參加的社團及活動:系排、行雲者、小豆芽" />
 
     <ImageView
         android:id="@+id/imageView3"
